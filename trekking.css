@@ -118,12 +118,13 @@ h2 {
     font-size: 17px;
 }
 
-.circuito .info h5 {
-    text-align: center;
+.circuito .info h5{
+    font-size: 20px;
 }
 
-.circuito .info h6 {
-    text-align: center;
+
+.circuito .info h6{
+    font-size: 15px;
 }
 
 .circuito {
